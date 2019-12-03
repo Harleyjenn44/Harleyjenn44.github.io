@@ -4,7 +4,7 @@
     border-right: solid 80px #dddddd;
     border-top: solid 20px #dddddd;
     border-bottom: solid 40px #dddddd;
-
+    min-height: calc(100vh - 70px);
 }
 #header {
     
@@ -48,4 +48,10 @@ h1 {
 #hr2{
     border: solid 1px #4aaaa5;
     margin: 0px;
+}
+#main p {
+    margin-bottom: 1.5em;
+}
+#text {
+   font-size: 20px ; 
 }
