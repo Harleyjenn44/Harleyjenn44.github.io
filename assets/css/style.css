@@ -13,6 +13,7 @@
 footer p {
     background-color:#666666 ;
     margin: 0px;
+    text-align: center;
 }
 span {
     float: right;
@@ -54,4 +55,7 @@ h1 {
 }
 #text {
    font-size: 20px ; 
+}
+#contact {
+    margin: 0px;
 }
